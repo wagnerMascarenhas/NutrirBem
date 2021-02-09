@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267359469567",
+    "project_id": "nutrirbemmydb",
+    "storage_bucket": "nutrirbemmydb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267359469567:android:469e2c463344296569f1ca",
+        "android_client_info": {
+          "package_name": "com.wagnerm.nutrirbem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267359469567-n5h9lh23ho1a3fmdn4t6cttj2aabkbjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wagnerm.nutrirbem",
+            "certificate_hash": "888b07252530c9c2b3946d7e632cd6a911538c47"
+          }
+        },
+        {
+          "client_id": "267359469567-fg6hqmp75scn95d2v6382ji6ftg1t39c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hMWsItpNABxiAYjpoAx_xDxzLipTafQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267359469567-fg6hqmp75scn95d2v6382ji6ftg1t39c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NutrirBem</string>
     <string name="title_activity_login">LoginActivity</string>
-    <string name="prompt_email">Login</string>
+    <string name="prompt_email">E-mail</string>
     <string name="prompt_password">Senha</string>
     <string name="action_sign_in">Entrar</string>
     <string name="action_sign_in_short">Sign in</string>
